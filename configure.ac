@@ -13,11 +13,11 @@ AC_PROG_INSTALL
 AC_PROG_MAKE_SET
 
 # Checks for libraries.
-AM_PROG_LIBTOOL
+#AM_PROG_LIBTOOL
 
 # Set shared libraries
-AC_DISABLE_STATIC
-AC_ENABLE_SHARED
+#AC_DISABLE_STATIC
+#AC_ENABLE_SHARED
 
 # Checks for header files.
 
